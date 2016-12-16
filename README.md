@@ -1,0 +1,1 @@
+A pomodoro timer application for time management, with a buzzer, and 5min, 10min, and 25min settings.
