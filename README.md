@@ -3,6 +3,7 @@ A React.js pomodoro timer application for time management.
 - Start, Stop, and Reset controls
 - 5min, 10min, and 25min settings
 - Buzzer plays when the time runs out 
+
 ## Usage
 Clone or download the GitHub repository:
 
